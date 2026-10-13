@@ -4,7 +4,7 @@
   "services": {
     "api": {
       "root": "api",
-      "entrypoint": "index.js"
+      "entrypoint": "server.js"
     },
     "frontend": {
       "root": "frontend",
